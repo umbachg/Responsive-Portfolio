@@ -15,15 +15,14 @@ h2 {
 
 p {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     color: #777777;
-    line-height: 25px;
+    line-height: 35px;
 }
 
 .navlinks {
     padding-top: 35px;
     float: right;
-    
 }
 
 li{
@@ -93,7 +92,7 @@ header {
 #main {
     background-color: #ffffff;
     width: 920px;
-    height: 400px;
+    height: 470px;
     padding: 20px;
     margin: auto;
     margin: 40px 0px;
@@ -214,7 +213,7 @@ article {
     margin-top: 126px;
 }
 
-.Hangman {
+.WGG {
     background-image: url('https://via.placeholder.com/200');
     background-size: 264px 196px;
     width: 264px;
@@ -223,8 +222,8 @@ article {
     float: left;
 }
 
-.RPG {
-    background-image: url('https://via.placeholder.com/200');
+.CC {
+    background-image: url('../images/creature-collector_200x200.jpg');
     background-size: 264px 196px;
     width: 264px;
     height: 196px;
@@ -424,7 +423,7 @@ article {
         margin-top: 200px;
     }
 
-    .Hangman {
+    .WGG {
         background-size: 320px 270px;
         width: 320px;
         height: 270px;
@@ -432,7 +431,7 @@ article {
         float: left;
     }
 
-    .RPG {
+    .CC {
         background-size: 320px 270px;
         width: 320px;
         height: 270px;
@@ -539,7 +538,7 @@ article {
         margin-top: 380px;
     }
 
-    .Hangman {
+    .WGG {
         background-size: 540px 450px;
         width: 540px;
         height: 450px;
@@ -547,7 +546,7 @@ article {
         float: left;
     }
 
-    .RPG {
+    .CC {
         background-size: 540px 450px;
         width: 540px;
         height: 450px;
