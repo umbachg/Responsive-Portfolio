@@ -241,8 +241,8 @@ article {
     clear: both;
 }
 
-.Rutgers {
-    background-image: url('https://via.placeholder.com/200');
+.Giphy {
+    background-image: url('../images/giphy_200x200.jpg');
     background-size: 264px 196px;
     width: 264px;
     height: 196px;
@@ -437,7 +437,7 @@ article {
         height: 270px;
         margin-left: 40px;
     }
-
+    
     .Trivia {
         background-size: 320px 270px;
         width: 320px;
